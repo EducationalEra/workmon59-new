@@ -15,16 +15,19 @@
     <td  colspan="2" style="vertical-align:top !important;">2. Технологія виготовлення текстильних виробів із аплікацією (26 год)</td>
   </tr>
   <tr>
-    <td width="100%" align="center" colspan="4"><b>Варіативна складова.</b> Два модулі (40 год)</td>
+    <td width="100%" align="center" colspan="4"><b>Варіативна складова.</b> Три модулі (36 год)</td>
   </tr>
   <tr>
-    <td colspan="4" style="vertical-align:top !important;">Варіативний модуль 1 (20 год) </td>
+    <td colspan="4" style="vertical-align:top !important;">Варіативний модуль 1 (12 год) </td>
   </tr>
   <tr>
-    <td colspan="4" style="vertical-align:top !important;">Варіативний модуль 2 (20 год)</td>
+    <td colspan="4" style="vertical-align:top !important;">Варіативний модуль 2 (12 год)</td>
   </tr>
   <tr>
-    <td width="100%" align="center" colspan="4"><b>Резерв часу</b> (4 год)</td>
+    <td colspan="4" style="vertical-align:top !important;">Варіативний модуль 3 (12 год)</td>
+  </tr>
+  <tr>
+    <td width="100%" align="center" colspan="4"><b>Резерв часу</b> (8 год)</td>
   </tr>
   <tr>
     <td width="100%" align="center" colspan="4"><b><i>6 клас</i></b></td>
@@ -37,16 +40,19 @@
     <td colspan="2" style="vertical-align:top !important;">2. Технологія виготовлення вишитих виробів <br> (26 год) </td>
   </tr>
   <tr>
-    <td width="100%" align="center" colspan="4"><b>Варіативна складова.</b> Два модулі (40 год)</td>
+    <td width="100%" align="center" colspan="4"><b>Варіативна складова.</b> Три модулі (36 год)</td>
   </tr>
   <tr>
-    <td colspan="4" style="vertical-align:top !important;">Варіативний модуль 1 (20 год) </td>
+    <td colspan="4" style="vertical-align:top !important;">Варіативний модуль 1 (12 год) </td>
   </tr>
   <tr>
-    <td colspan="4" style="vertical-align:top !important;">Варіативний модуль 2 (20 год)  </td>
+    <td colspan="4" style="vertical-align:top !important;">Варіативний модуль 2 (12 год)</td>
   </tr>
   <tr>
-    <td width="100%" align="center" colspan="4"><b>Резерв часу</b> (4 год)</td>
+    <td colspan="4" style="vertical-align:top !important;">Варіативний модуль 3 (12 год)</td>
+  </tr>
+  <tr>
+    <td width="100%" align="center" colspan="4"><b>Резерв часу</b> (8 год)</td>
   </tr>
   <tr>
     <td width="100%" align="center" colspan="4"><b><i>7 клас</i></b></td>
@@ -59,11 +65,14 @@
     <td colspan="2" style="vertical-align:top !important;">2. Технологія виготовлення виробів, в’язаних гачком   (16 год)</td>
   </tr>
   <tr>
-    <td width="100%" align="center" colspan="4"><b>Варіативна складова.</b>  Один модуль (16 год)</td>
+    <td width="100%" align="center" colspan="4"><b>Варіативна складова.</b> Два модулі (16 год)</td>
   </tr>
   <tr>
-    <td colspan="4"  style="vertical-align:top !important;">Варіативний модуль (16 год) </td>
+    <td colspan="4" style="vertical-align:top !important;">Варіативний модуль 1 (8 год) </td>
   </tr>
+  <tr>
+    <td colspan="4" style="vertical-align:top !important;">Варіативний модуль 2 (8 год)</td>
+  </tr> 
   <tr>
     <td width="100%" align="center" colspan="4"><b>Резерв часу</b> (3 год)</td>
   </tr>
@@ -79,10 +88,13 @@
     <td width="35%" style="vertical-align:top !important;">3. Технологія виготовлення виробів інтер’єрного призначення (16 год) </td>
   </tr>
   <tr>
-    <td width="100%" align="center" colspan="4" ><b>Варіативна складова.</b>  Один модуль (16 год)</td>
+    <td width="100%" align="center" colspan="4"><b>Варіативна складова.</b> Два модулі (16 год)</td>
   </tr>
   <tr>
-    <td colspan="4" style="vertical-align:top !important;">Варіативний модуль (16 год) </td>
+    <td colspan="4" style="vertical-align:top !important;">Варіативний модуль 1 (8 год) </td>
+  </tr>
+  <tr>
+    <td colspan="4" style="vertical-align:top !important;">Варіативний модуль 2 (8 год)</td>
   </tr>
   <tr>
     <td width="100%" align="center" colspan="4"><b>Резерв часу</b> (3 год)</td>

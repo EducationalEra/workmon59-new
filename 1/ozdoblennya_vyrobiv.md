@@ -5,9 +5,9 @@
 <table>
   <tr>
     <td width="10%" align="center"><b>№ з/п</b></td>
-    <td width="10%" align="center"><b>К-ть годин</b></td>
+    <td width="40%" align="center"><b>Очікувані результати навчально-пізнавальної діяльності учнів</b></td>
     <td width="40%" align="center"><b>Зміст навчального матеріалу</b></td>
-    <td width="40%" align="center"><b>Державні вимоги до рівня загальноосвітньої підготовки учня</b></td>
+    <td width="10%" align="center"><b>К-ть годин</b></td>
   </tr>
   <tr>
 <td width="10%" style="vertical-align:top !important;"></td>

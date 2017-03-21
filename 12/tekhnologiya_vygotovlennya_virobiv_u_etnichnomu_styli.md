@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-# Блок 3. Технологія виготовлення виробів у етнічному стилі
+# Блок 3.  Технологія виготовлення виробів в українському етнічному стилі
 
 ## Тематичний план
 
@@ -18,58 +18,58 @@
   <tr>
     <td width="10%" align="center">1</td>
     <td width="80%" align="center"><b><i>Розділ 1. Основи матеріалознавства</i></b></td>
-    <td width="10%" align="center"><b>(1)</b></td>
+    <td width="10%" align="center"><b>1</b></td>
   </tr>
   <tr>
     <td width="10%" align="center"></td>
     <td width="80%" style="vertical-align:top !important;">Тема 1.1. Конструкційні матеріали та їх властивості</td>
-    <td width="10%" align="center">1</td>
+    <td width="10%" align="center"></td>
   </tr>
   <tr>
     <td width="10%" align="center">2</td>
-    <td width="80%" align="center"><b><i>Розділ 2. Технологія виготовлення виробів у етнічному стилі</i></b></td>
-    <td width="10%" align="center"><b>(10)</b></td>
+    <td width="80%" align="center"><b><i>Розділ 2. Технологія виготовлення виробів в українському етнічному стилі</i></b></td>
+    <td width="10%" align="center"><b>10</b></td>
   </tr>
   <tr>
     <td width="10%" align="center" rowspan="3"></td>
-    <td width="80%" style="vertical-align:top !important;">Тема 2.1.  Стилі інтер’єру та одягу. Етнічний стиль</td>
-    <td width="10%" align="center">1</td>
+    <td width="80%" style="vertical-align:top !important;">Тема 2.1. Стилі в інтер’єрі та одязі. Етнічний стиль</td>
+    <td width="10%" align="center"></td>
   </tr>
   <tr>
     <td width="80%" style="vertical-align:top !important;">Тема 2.2. Український етнічний стиль</td>
-    <td width="10%" align="center">1</td>
+    <td width="10%" align="center"></td>
   </tr>
   <tr>
-    <td width="80%" style="vertical-align:top !important;">Тема 2.3. Виготовлення  виробів  у  етнічному стилі </td>
-    <td width="10%" align="center">8</td>
+    <td width="80%" style="vertical-align:top !important;">Тема 2.3 Виготовлення  виробів  в українському  етнічному стилі</td>
+    <td width="10%" align="center"></td>
   </tr>  
   <tr>
     <td width="10%" align="center">3</td>
     <td width="80%" align="center"><b><i>Розділ 3. Основи техніки, технологій і проектування</i></b></td>
-    <td width="10%" align="center"><b>(3)</b></td>
+    <td width="10%" align="center"><b>3</b></td>
   </tr>
   <tr>
     <td width="10%" align="center" rowspan="3"></td>
     <td width="80%" style="vertical-align:top !important;">Тема 3.1. Автоматизація, комп’ютеризація та роботизація сучасних  технологічних процесів </td>
-    <td width="10%" align="center">1</td>
+    <td width="10%" align="center"></td>
   </tr>
   <tr>
     <td width="80%" style="vertical-align:top !important;">Тема 3.2. Основи проектної діяльності</td>
-    <td width="10%" align="center">1</td>
+    <td width="10%" align="center"></td>
   </tr>
   <tr>
     <td width="80%" style="vertical-align:top !important;">Тема 3.3. Проектування майбутньої професійної діяльності</td>
-    <td width="10%" align="center">1</td>
+    <td width="10%" align="center"></td>
   </tr>
   <tr>
     <td width="10%" align="center">4</td>
     <td width="80%" align="center"><b><i>Розділ 4. Технологія побутової діяльності</i></b></td>
-    <td width="10%" align="center"><b>(2)</b></td>
+    <td width="10%" align="center"><b>2</b></td>
   </tr>
   <tr>
     <td width="10%" align="center"></td>
     <td width="80%" style="vertical-align:top !important;">Тема 4.1. Технологія проектування власного стилю</td>
-    <td width="10%" align="center">2</td>
+    <td width="10%" align="center"></td>
   </tr>
   <tr>
     <td width="10%" align="center"></td>
