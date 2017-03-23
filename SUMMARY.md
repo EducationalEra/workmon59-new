@@ -6,7 +6,7 @@
 * [Зміст програми](zmist.md)
 * [Пояснювальна записка](poyasnuvalna_zapyska.md)
   * [Ключові та предметні компетентності](kompetentnosty.md)
-  * [Наскрізні лінї](naskryzny_lyniyi.md)
+  * [Наскрізні лінії](naskryzny_lyniyi.md)
   * [Обов’язкова для вивчення складова](obovyazkova_skladova.md)
   * [Варіативна складова](variatyvna_skladova.md)
      * [Перелік варіативних модулів для 5 – 6 класів](5_6_klas.md)
